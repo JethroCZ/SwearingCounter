@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwearingCounterService", "SwearingCounterService\SwearingCounterService.csproj", "{55392079-0758-44B8-A794-B79BD428BF04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwearingCounter", "SwearingCounter\SwearingCounter.csproj", "{F083DEF4-0D97-4E89-AE90-C1A7087615AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D610EC7D-91D5-455A-B09E-FBF077A4A169}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{55392079-0758-44B8-A794-B79BD428BF04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55392079-0758-44B8-A794-B79BD428BF04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55392079-0758-44B8-A794-B79BD428BF04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F083DEF4-0D97-4E89-AE90-C1A7087615AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F083DEF4-0D97-4E89-AE90-C1A7087615AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F083DEF4-0D97-4E89-AE90-C1A7087615AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F083DEF4-0D97-4E89-AE90-C1A7087615AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D610EC7D-91D5-455A-B09E-FBF077A4A169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D610EC7D-91D5-455A-B09E-FBF077A4A169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D610EC7D-91D5-455A-B09E-FBF077A4A169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D610EC7D-91D5-455A-B09E-FBF077A4A169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
