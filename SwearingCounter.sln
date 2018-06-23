@@ -18,6 +18,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedHost", "Testing\Test2\GettingStartedHost\GettingStartedHost.csproj", "{5A219315-A650-4A69-87DD-5476224E7E8A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedClient", "Testing\Test2\GettingStartedClient\GettingStartedClient.csproj", "{5DC6ACFF-66E1-4743-A460-DEC7922DB796}"
+	ProjectSection(ProjectDependencies) = postProject
+		{80E6611E-058F-4C87-860C-C516DA46546D} = {80E6611E-058F-4C87-860C-C516DA46546D}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStartedLib", "Testing\Test2\GettingStartedLib\GettingStartedLib.csproj", "{80E6611E-058F-4C87-860C-C516DA46546D}"
 EndProject
